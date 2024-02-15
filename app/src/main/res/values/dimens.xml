@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  переменные для первого и второго варианта  -->
+    <dimen name="old_layout_width">250dp</dimen>
+    <dimen name="new_layout_width">350dp</dimen>
+
+
+    <!--  переменные для третьего варианта  -->
+    <dimen name="initial_panel_width">250dp</dimen>
+    <dimen name="max_panel_width">350dp</dimen>
+</resources>
